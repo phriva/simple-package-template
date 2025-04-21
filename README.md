@@ -1,27 +1,25 @@
-# package_name
+# hello-world
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+This is a basic Hello World
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install helloworld
 
 ```bash
-pip install package_name
+pip install helloworld
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from hellowrld import hello
+helloworld.hello()
 ```
 
 ## Author
-My_name
+Pedro Riva
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
